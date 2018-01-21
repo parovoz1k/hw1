@@ -21,4 +21,4 @@
 ## И именно так, когда пытаются что-то исправить
 # ![](https://giphy.com/gifs/pandawhale-stitch-lilo-HkNPbfRhisIH6)
 # Ну и пользуясь случаем оставлю ссылочку на свой интаграмчик 
-# ![] (https://www.instagram.com/vaaart)
+# ![](https://www.instagram.com/vaaart)
