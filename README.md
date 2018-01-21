@@ -19,6 +19,6 @@
 ## Именно так выглядят студенты которые не успевают спать
 # ![](https://github.com/Arakelyan/hw1/blob/master/%D1%81%D1%82%D0%B8%D1%87.png?raw=true)
 ## И именно так, когда пытаются что-то исправить
-# ![](https://giphy.com/gifs/pandawhale-stitch-lilo-HkNPbfRhisIH6)
+<https://giphy.com/gifs/pandawhale-stitch-lilo-HkNPbfRhisIH>
 # Ну и пользуясь случаем оставлю ссылочку на свой интаграмчик 
 <http://www.instagram.com/vaaart>
